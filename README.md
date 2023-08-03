@@ -1,2 +1,2 @@
 # Latihangit
-Latihan git pak yudha
+Latihan git pak yudha cn
